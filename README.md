@@ -3,6 +3,8 @@
 This site is built with [VuePress](https://vuepress.vuejs.org/). Site content is written in Markdown format located in `src`.
 
 ## Writing
+![enter image description here](https://tianchi-public.oss-cn-hangzhou.aliyuncs.com/public/files/forum/168794733755466451687947337393.png =200x)
+
 
 See the [Vue Docs Writing Guide](https://v3.vuejs.org/guide/writing-guide.html) for our rules and recommendations on writing and maintaining documentation.
 
